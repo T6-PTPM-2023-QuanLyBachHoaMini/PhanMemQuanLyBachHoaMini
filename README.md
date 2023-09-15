@@ -25,3 +25,4 @@ WEB
   o	QL đơn hàng đã giao.
 AI: Tính tiền sản phẩm bằng hình ảnh phân loại.
 
+![image](https://github.com/T6-PTPM-2023-QuanLyBachHoaMini/PhanMemQuanLyBachHoaMini/assets/139526432/1de7bcf9-d042-4156-b83c-2692fa26d561)
