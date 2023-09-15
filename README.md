@@ -24,7 +24,7 @@
 <h4>QL đơn hàng chưa giao (duyệt đơn hàng(lúc khách hàng đặt hàng)).</h4>
 <h4>QL đơn hàng đã giao.</h4>
 
-<h2>AI: Tính tiền sản phẩm bằng hình ảnh phân loại.</h2>
+<h2>AI: Tính tiền sản phẩm bằng hình ảnh phân loại (thuật toán noron).</h2>
 <h1>Bảng phân công công việc
 </h1>
 
