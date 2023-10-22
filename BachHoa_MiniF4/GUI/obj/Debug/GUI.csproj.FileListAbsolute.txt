@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\GUI.exe
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\GUI.pdb
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.pdb
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\BLL.dll
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\DTO.dll
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\bin\Debug\DTO.pdb
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.TrangChu.resources
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.BanHang.resources
+C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\GUI\obj\Debug\GUI.DoiTra.resources
