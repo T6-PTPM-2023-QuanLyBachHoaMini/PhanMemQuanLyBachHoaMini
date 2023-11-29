@@ -1,9 +1,0 @@
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\BLL.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\BLL.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\obj\Debug\BLL.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\obj\Debug\BLL.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\DAL.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\DTO.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\DAL.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\BLL\bin\Debug\DTO.pdb

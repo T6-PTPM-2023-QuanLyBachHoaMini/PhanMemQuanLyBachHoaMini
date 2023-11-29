@@ -1,7 +1,0 @@
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\bin\Debug\DAL.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\bin\Debug\DAL.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\obj\Debug\DAL.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\obj\Debug\DAL.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\bin\Debug\DTO.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DAL\bin\Debug\DTO.pdb

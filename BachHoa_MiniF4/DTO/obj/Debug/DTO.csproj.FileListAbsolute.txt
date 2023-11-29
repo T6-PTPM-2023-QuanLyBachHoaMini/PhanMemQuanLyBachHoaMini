@@ -1,4 +1,0 @@
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DTO\bin\Debug\DTO.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DTO\bin\Debug\DTO.pdb
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DTO\obj\Debug\DTO.dll
-C:\Users\ASUS\Documents\GitHub\BachHoa_MiniF4\DTO\obj\Debug\DTO.pdb
