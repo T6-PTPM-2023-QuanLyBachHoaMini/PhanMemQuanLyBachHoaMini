@@ -20,6 +20,7 @@
 <h4>Tìm kiếm sản phẩm.</h4>
 <h4>Chat tư vấn online.</h4>
 <h2>Một số hình ảnh</h2>
-a8c3c294-69f4-4580-b48f-72535f4d03a9
+<img src="https://github.com/T6-PTPM-2023-QuanLyBachHoaMini/PhanMemQuanLyBachHoaMini/assets/139526432/d4b0cb57-0e23-4a0c-9992-c935275cfa03"/>
+
 
 
