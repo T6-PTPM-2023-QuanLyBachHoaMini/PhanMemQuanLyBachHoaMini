@@ -19,6 +19,7 @@
 <h4>Giỏ hàng, mua hàng, thanh toán onl.</h4>
 <h4>Tìm kiếm sản phẩm.</h4>
 <h4>Chat tư vấn online.</h4>
-![image](https://github.com/T6-PTPM-2023-QuanLyBachHoaMini/PhanMemQuanLyBachHoaMini/assets/139526432/a8c3c294-69f4-4580-b48f-72535f4d03a9)
+<h2>Một số hình ảnh</h2>
+a8c3c294-69f4-4580-b48f-72535f4d03a9
 
 
