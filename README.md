@@ -19,7 +19,5 @@
 <h4>Giỏ hàng, mua hàng, thanh toán onl.</h4>
 <h4>Tìm kiếm sản phẩm.</h4>
 <h4>Chat tư vấn online.</h4>
-<h2>AI: Kiểm tra email có phải là email ảo/ spam hay không (cây quyết định).</h2>
-<h1>Bảng phân công công việc
-</h1>
+
 
